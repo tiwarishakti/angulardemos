@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 12,
+      "firstName": "dias",
+      "lastName": "paney",
+      "email": "diwa@gmail.com",
+      "mobile": "1238850980",
+      "salary": "600666"
+    },
+    {
+      "id": 13,
+      "firstName": "shati",
+      "lastName": "tiwri",
+      "email": "shati@gmail.com",
+      "mobile": "9782008915",
+      "salary": "444444"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
